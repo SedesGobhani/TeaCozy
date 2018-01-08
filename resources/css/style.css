@@ -1,6 +1,5 @@
 body{
   margin: 0;
-  float;
   background-color: black;
   color: seashell;
   opacity: 0.9;
@@ -24,6 +23,7 @@ header{
 
 header img {
   height: 50px;
+  margin: 0px 10px;
 }
 
 nav{
@@ -154,7 +154,7 @@ nav span a{
 
 #copyright {
   display: flex;
-  justify-content: left;
+  justify-content:flex-start;
   width: 100%;
-  margin-left: 20px;
+  margin: 0px 20px;
 }
